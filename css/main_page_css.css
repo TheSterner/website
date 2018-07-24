@@ -1,0 +1,136 @@
+
+h1 {
+	font-family: 'Merienda';
+	font-weight: 900;
+	color: white;
+}
+
+h2 {
+	font-family: 'Merienda';
+	color: black;
+	font-size: 50px;
+	font-weight: 900;
+}
+
+.first-break {
+	margin-top: 800px;
+}
+/*
+.center {
+    margin: auto;
+    width: 60%;
+    padding-left: 0px;
+}*/
+
+
+
+/*.tooltip {
+    position: relative;
+}	
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;*/
+    
+    /* Position the tooltip */
+/*    position: absolute;
+    z-index: 1;
+    top: -5px;
+    left: 105%;
+}*/
+
+/*.tooltip:hover .tooltiptext {
+    visibility: visible;
+}*/
+
+.navbar-header .navbar-brand {
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: white;
+}
+
+.navbar-header .navbar-brand a:hover {
+	color: #fed136;
+}
+
+main {
+	background-image: url("../img/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+section {
+	background-image: url("../img/section.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.down-button {
+	position: absolute;
+	bottom: 40px;
+	width: 100%;
+	text-align: center;
+}
+
+.down-button i {
+	color: white;
+}
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+}
+
+footer span.copyright {
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 40px;
+}
+
+footer ul.quicklinks {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 40px;
+}
+
+ul.social-buttons {
+    margin-bottom: 0;
+}
+
+ul.social-buttons li a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #fff;
+    background-color: #222;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
+    background-color: #fed136;
+}
+
+.btn:focus,
+.btn:active,
+.btn.active,
+.btn:active:focus {
+    outline: 0;
+}
+
